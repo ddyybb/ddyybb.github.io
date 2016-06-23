@@ -1,0 +1,13 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "5C3N79JM6H.com.clubautomation.CaMobile",
+                "paths": [
+                    "/camobile/login"
+                ]
+            }
+        ]
+    }
+}
