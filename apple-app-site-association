@@ -5,13 +5,13 @@
             {
                 "appID": "5C3N79JM6H.com.clubautomation.CaMobile",
                 "paths": [
-                    "/camobile/login"
+                    "/CaMobile/login"
                 ]
             },
             {
                 "appID": "5C3N79JM6H.com.clubautomation.GlobalFit",
                 "paths": [
-                    "/camobile/login"
+                    "/GlobalFit/login"
                 ]
             }            
         ]
