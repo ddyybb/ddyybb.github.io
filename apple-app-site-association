@@ -7,7 +7,13 @@
                 "paths": [
                     "/camobile/login"
                 ]
-            }
+            },
+            {
+                "appID": "5C3N79JM6H.com.clubautomation.GlobalFit",
+                "paths": [
+                    "/camobile/login"
+                ]
+            }            
         ]
     }
 }
